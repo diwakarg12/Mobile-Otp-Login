@@ -1,7 +1,8 @@
-# WhatsApp Clone Project
+# Mobile OTP Login System
+
 ## React + vite + tailwind
 
-This project is a simple WhatsApp clone built using React. It includes features like chat, user search, and message input.
+This project is a simple implementation of a Mobile OTP Login system using React. Users can enter their phone number, receive an OTP (One-Time Password), and then verify it to log in.
 
 ## Table of Contents
 
